@@ -1,5 +1,4 @@
 # CodeDeployer - Auto Deployment Platform
-An automatic code deployment system similar to Vercel
 This project is a lightweight platform that automates the deployment of frontend applications from Git repositories, inspired by **Vercel**. It streamlines the build and deployment process using AWS ECS, S3, Redis, and Express.
 It supports:
 
